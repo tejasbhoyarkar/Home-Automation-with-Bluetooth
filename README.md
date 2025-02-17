@@ -55,7 +55,7 @@ LED
 
 Power Supply
 
-
+Cricuit Diagram
 ![image](https://github.com/user-attachments/assets/054b94a4-a6d0-4b54-ab41-31cf346dba7e)
 
 Installation & Setup
